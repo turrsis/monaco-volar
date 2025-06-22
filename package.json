@@ -1,6 +1,6 @@
 {
   "name": "monaco-volar",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Vue support for monaco",
   "main": "./dist/lib/index.js",
   "types": "./dist/index.d.ts",
